@@ -171,7 +171,6 @@ jobs:
           CONFIG_PACKAGE_luci-app-mwan=y
           CONFIG_PACKAGE_luci-app-nlbwmon=y
           CONFIG_PACKAGE_luci-app-statistics=y
-          CONFIG_PACKAGE_luci-app-zerotier=y
           EOF
 
           # LuCI主题:
